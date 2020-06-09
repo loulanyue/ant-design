@@ -1,4 +1,4 @@
-# gulimall-admin-vue-app
+# gulimall-ant-design-vue
 
 
 #### 参与贡献
