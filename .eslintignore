@@ -1,9 +1,6 @@
-components/**/*.js
-components/**/*.jsx
-components/*/__tests__/type.tsx
-!components/*/__tests__/**/*.js
-!components/*/demo/*
-!.*.js
-# Docs templates
-site/theme/template/IconDisplay/*.js
-site/theme/template/IconDisplay/*.jsx
+/build/
+/config/
+/dist/
+/*.js
+/test/unit/coverage/
+/src/icons/iconfont.js
